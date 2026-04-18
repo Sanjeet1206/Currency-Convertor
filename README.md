@@ -35,10 +35,6 @@ Currency-Converter/
 - Click Convert  
 - View converted amount instantly  
 
-📸 Screenshot
-<img width="975" height="457" alt="image" src="https://github.com/user-attachments/assets/25d3da55-7315-475a-8127-a1296391c9c4" />
-
-
  🤝 Contributing
 Pull requests are welcome. For major changes, open an issue first to discuss improvements.
 
