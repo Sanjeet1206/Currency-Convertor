@@ -1,21 +1,21 @@
-💱 Currency Converter
+## 💱 Currency Converter
 
 A simple and user-friendly Currency Converter web application that allows users to convert one currency into another using real-time exchange rates.
 
- 🚀 Features
+ ## 🚀 Features
 - Convert between multiple currencies
 - Real-time exchange rates
 - Easy-to-use interface
 - Responsive design
 - Fast and accurate conversions
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 - HTML
 - CSS
 - JavaScript
 - Exchange Rate API
 
-📂 Project Structure
+## 📂 Project Structure
 ```bash
 Currency-Converter/
 │── index.html
@@ -23,7 +23,7 @@ Currency-Converter/
 │── script.js
 └── README.md
 ```
-⚙️ Installation
+## ⚙️ Installation
 
 ```
 
